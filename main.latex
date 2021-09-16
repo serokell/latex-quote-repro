@@ -1,18 +1,13 @@
 \documentclass[DIV=11]{scrreport}
-
 \usepackage{scrlayer-scrpage}
 \ohead{\input{./input.latex}}
 \renewcommand*{\chapterpagestyle}{scrheadings}
-
 \usepackage{hyperref}
-
 \begin{document}
-
 \hypertarget{xxx}{\chapter{xxx}}
 \hypertarget{xxx}{\section{xxx}}
 \hypertarget{xxx}{\section{xxx}}
 \hypertarget{xxx}{\section{xxx}}
-
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxx xxxxxxxxxx xxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -29,7 +24,6 @@ xxxxxxxxxxxxxxxxxxxxxxx x
 \begin{enumerate}
 \item
   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-  xxxxxxxxxxxxxxxxx
 \item
   xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   xxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx
@@ -40,7 +34,6 @@ xxxxxxxxxxxxxxxxxxxxxxx x
   xxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxxxxxxx
   xxxxxxxxxxxxxxxxxxxxx xxxxxx
 \end{enumerate}
-
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxx.
 
@@ -66,5 +59,4 @@ x
 >>>>>>>
 \end{verbatim}
 \end{enumerate}
-
 \end{document}

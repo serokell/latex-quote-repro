@@ -10,3 +10,5 @@ Build with `pdflatex main.latex` or `xelatex main.latex` to get:
                 $
 l.1 %'
 ```
+
+Delete any (not critical for the structure) line and it will start to work.
