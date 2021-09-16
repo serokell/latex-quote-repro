@@ -1,4 +1,4 @@
-\documentclass[DIV=11]{scrreport}
+\documentclass{scrreport}
 \usepackage{scrlayer-scrpage}
 \ohead{\input{./input.latex}}
 \renewcommand*{\chapterpagestyle}{scrheadings}
