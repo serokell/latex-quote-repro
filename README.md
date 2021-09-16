@@ -2,7 +2,7 @@
 
 A _minimal_ (yes, really) reproduction for a LaTeX error.
 
-Build with `pdflatex main.latex`, `xelatex main.latex`, or `lualatex main.latex` to get:
+Build with `latex main.latex` (or `xelatex`, or `lualatex`) to get:
 
 ```text
 ! Missing $ inserted.
