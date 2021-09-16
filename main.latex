@@ -2,12 +2,11 @@
 \usepackage{scrlayer-scrpage}
 \ohead{\input{./input.latex}}
 \renewcommand*{\chapterpagestyle}{scrheadings}
-\usepackage{hyperref}
 \begin{document}
-\hypertarget{xxx}{\chapter{xxx}}
-\hypertarget{xxx}{\section{xxx}}
-\hypertarget{xxx}{\section{xxx}}
-\hypertarget{xxx}{\section{xxx}}
+{\chapter{xxx}}
+{\section{xxx}}
+{\section{xxx}}
+x{\section{xxx}}
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxx xxxxxxxxxx xxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
